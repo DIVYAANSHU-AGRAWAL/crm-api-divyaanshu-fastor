@@ -51,8 +51,8 @@ npm run dev
 POST /api/enquiry
 Content-Type: application/json
 {
-  "name": "Rohit Sharma",
-  "email": "rohit@example.com",
+  "name": "Divyaanshu Agrawal",
+  "email": "divyaanshu@example.com",
   "courseInterest": "Full Stack Web Development",
   "message": "This is test request"
 }
